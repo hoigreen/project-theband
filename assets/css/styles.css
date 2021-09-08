@@ -121,11 +121,8 @@ html{
     display: none;
 }
 /* Slider*/ 
-#slider {
     position: relative;
-    margin-top: 45px;
     padding-top: 50%;
-    background: url(/assets/img/slider/slider.jpg) top center/ cover no-repeat; 
 }
 #slider .text-content {
     position: absolute;
