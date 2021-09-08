@@ -121,8 +121,12 @@ html{
     display: none;
 }
 /* Slider*/ 
+.slider {
     position: relative;
     padding-top: 50%;
+ 
+    width: 100%;
+    background: url(https://www.w3schools.com/w3images/ny.jpg) top center/ cover no-repeat;
 }
 #slider .text-content {
     position: absolute;
