@@ -125,8 +125,7 @@ html{
     position: relative;
     margin-top: 45px;
     padding-top: 50%;
-    background: top center/ cover no-repeat;
-    background-image: url(https://www.w3schools.com/w3images/ny.jpg);  
+    background: url(/assets/img/slider/slider.jpg) top center/ cover no-repeat; 
 }
 #slider .text-content {
     position: absolute;
