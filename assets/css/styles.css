@@ -126,9 +126,10 @@ html{
     margin-top: 45px;
     width: 100%;
     padding-top: 50%;
-    background-image: url(/assets/img/sliders/NewYork.jpg);
+    background-image: url(/assets/img/places/newyork.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: top center;
 }
 #slider .text-content {
     position: absolute;
