@@ -122,14 +122,13 @@ html{
 }
 /* Slider*/ 
 #slider {
-
     position: relative;
     margin-top: 45px;
     width: 100%;
     padding-top: 50%;
     background-image: url(/assets/img/sliders/NewYork.jpg);
     background-repeat: no-repeat;
-    background-position: top center ;
+    background-size: cover;
 }
 #slider .text-content {
     position: absolute;
