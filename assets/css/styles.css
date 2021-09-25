@@ -121,12 +121,15 @@ html{
     display: none;
 }
 /* Slider*/ 
-.slider {
+#slider {
+
     position: relative;
-    padding-top: 50%;
     margin-top: 45px;
     width: 100%;
-    background: url(https://www.w3schools.com/w3images/ny.jpg) top center/ cover no-repeat;
+    padding-top: 50%;
+    background-image: url(/assets/img/sliders/NewYork.jpg);
+    background-repeat: no-repeat;
+    background-position: top center ;
 }
 #slider .text-content {
     position: absolute;
@@ -298,6 +301,7 @@ html{
     padding: 11px 16px;
     margin-top: 18px;
     margin-bottom: 16px;
+    border: none;
     
 }
 .place-buy-btn:hover{
